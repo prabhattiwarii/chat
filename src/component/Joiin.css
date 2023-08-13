@@ -1,5 +1,5 @@
 .JoinPage{
-    background-color: rgb(31, 38, 58);
+    background-color: #1c2439;
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -55,5 +55,5 @@
 }
 
 .loginbtn:hover{
-    background-color: rgb(182, 49, 12);;
+    background-color: rgb(182, 49, 12);
 }
